@@ -1,0 +1,9 @@
+1、安装 Revel 框架
+$ go get github.com/robfig/revel
+2、安装 Revel 命令行工具
+$ go get github.com/robfig/revel/revel
+3、创建 Revel 应用
+$ revel new myapp
+$ revel run myapp
+打开浏览器访问 http://localhost:9000
+
