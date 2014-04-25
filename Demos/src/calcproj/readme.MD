@@ -1,4 +1,4 @@
-GOPATH settings
+Settings
 
 1.open file: ~/.bashrc
 2.add export to bashrc
@@ -19,8 +19,7 @@ The Commands are:
 
 
 <#-----  中文版本 -----#>
-
-GOPATH 路径配置:
+配置:
 
 1.打开文件  ~/.bashrc
 2.添加export语句(因为GOPATH可以多个,所以后面添加了$GOPATH,并且以:隔开)
